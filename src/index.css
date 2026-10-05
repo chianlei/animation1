@@ -1,0 +1,130 @@
+@font-face {
+  font-family: Anton;
+  src: url("./assets/anton.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: Manrope;
+  src: url("/media/manrope-400.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: Manrope;
+  src: url("/media/manrope-500.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/media/jetbrains-mono-400.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+}
+:root {
+  font-family: Manrope, Arial, sans-serif;
+  color: #ff1a90;
+  background: #f5f3e8;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --pink: #ff1a90;
+  --cream: #f5f3e8;
+  --ink: #212121;
+  --page-gutter: 30px;
+  --mono: "JetBrains Mono", monospace;
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 110px;
+}
+body {
+  margin: 0;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+button,
+input,
+textarea {
+  font: inherit;
+}
+button {
+  cursor: pointer;
+}
+h1,
+h2,
+h3,
+h4,
+p,
+figure {
+  margin: 0;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: Anton, Impact, sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--pink);
+  outline-offset: 5px;
+}
+::selection {
+  background: var(--pink);
+  color: var(--cream);
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.skip-link {
+  position: fixed;
+  top: -60px;
+  left: 20px;
+  z-index: 100;
+  background: var(--ink);
+  color: var(--cream);
+  padding: 12px;
+}
+.skip-link:focus {
+  top: 10px;
+}
+.mono {
+  font: 13px/1.6 var(--mono);
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+@media (max-width: 1199px) {
+  :root {
+    --page-gutter: 20px;
+  }
+}

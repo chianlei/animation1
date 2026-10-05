@@ -1,0 +1,115 @@
+{
+  "website": "https://www.justphilride.co.uk/",
+  "pages": [
+    "https://www.justphilride.co.uk/",
+    "https://www.justphilride.co.uk/contact",
+    "https://www.justphilride.co.uk/diary"
+  ],
+  "remaining_pages": 0,
+  "images_found": 17,
+  "images": [
+    {
+      "url": "https://framerusercontent.com/images/6d9XuERSVApdIZ1AQeQKD6uuG4.jpg",
+      "file": "6d9XuERSVApdIZ1AQeQKD6uuG4-34f0bfa91c.jpg",
+      "status": "downloaded",
+      "bytes": 73456
+    },
+    {
+      "url": "https://framerusercontent.com/images/8JUOJssQRufMk9AgZZ3dSztVSc.jpg",
+      "file": "8JUOJssQRufMk9AgZZ3dSztVSc-39382f4b78.jpg",
+      "status": "downloaded",
+      "bytes": 20776
+    },
+    {
+      "url": "https://framerusercontent.com/images/9pJF9645q1H7SD2yzVJIS2UljD4.jpg",
+      "file": "9pJF9645q1H7SD2yzVJIS2UljD4-dc6971536c.jpg",
+      "status": "downloaded",
+      "bytes": 426356
+    },
+    {
+      "url": "https://framerusercontent.com/images/CofR2JcLjXJalGECcm9eV3RZLao.png",
+      "file": "CofR2JcLjXJalGECcm9eV3RZLao-a284704fd2.png",
+      "status": "downloaded",
+      "bytes": 311
+    },
+    {
+      "url": "https://framerusercontent.com/images/FUDKSoEZ9PsNVvjDQcuUnBiO2uY.jpg",
+      "file": "FUDKSoEZ9PsNVvjDQcuUnBiO2uY-75923bfbd8.jpg",
+      "status": "downloaded",
+      "bytes": 3255090
+    },
+    {
+      "url": "https://framerusercontent.com/images/GHDHaBG1z9D8KeOXz1FTXlgyL4A.png",
+      "file": "GHDHaBG1z9D8KeOXz1FTXlgyL4A-a8b0378449.png",
+      "status": "downloaded",
+      "bytes": 448
+    },
+    {
+      "url": "https://framerusercontent.com/images/HJOl45VUKJcIuRa8N6QDAfqj70.png",
+      "file": "HJOl45VUKJcIuRa8N6QDAfqj70-d4d86cda91.png",
+      "status": "downloaded",
+      "bytes": 2543
+    },
+    {
+      "url": "https://framerusercontent.com/images/HyU5lLyPkDP9UgneHSusMKIRVY.jpg",
+      "file": "HyU5lLyPkDP9UgneHSusMKIRVY-85f3bba06f.jpg",
+      "status": "downloaded",
+      "bytes": 123154
+    },
+    {
+      "url": "https://framerusercontent.com/images/LEInfS2FQOiErFY8GEGR7lZcoU.png",
+      "file": "LEInfS2FQOiErFY8GEGR7lZcoU-9e783577b1.png",
+      "status": "downloaded",
+      "bytes": 1670163
+    },
+    {
+      "url": "https://framerusercontent.com/images/RNjyYwtGCWHRdKWvMyWf2hWWZAA.jpg",
+      "file": "RNjyYwtGCWHRdKWvMyWf2hWWZAA-a76639f2ff.jpg",
+      "status": "downloaded",
+      "bytes": 78824
+    },
+    {
+      "url": "https://framerusercontent.com/images/UpcD000VPbs63TVSkNbjNlWtgs.png",
+      "file": "UpcD000VPbs63TVSkNbjNlWtgs-9e3ca76ab7.png",
+      "status": "downloaded",
+      "bytes": 1301996
+    },
+    {
+      "url": "https://framerusercontent.com/images/ZbquV14IuuaJzHPACdt7u6Wzok.svg",
+      "file": "ZbquV14IuuaJzHPACdt7u6Wzok-e5f54b3a63.svg",
+      "status": "downloaded",
+      "bytes": 145708
+    },
+    {
+      "url": "https://framerusercontent.com/images/bfAXWUthXlC3f8EgCido7RZh8.png",
+      "file": "bfAXWUthXlC3f8EgCido7RZh8-8fa3842eef.png",
+      "status": "downloaded",
+      "bytes": 126295
+    },
+    {
+      "url": "https://framerusercontent.com/images/dXvinPxKqmjBMKjBW5H00JLanw.jpg",
+      "file": "dXvinPxKqmjBMKjBW5H00JLanw-6a1f9f9149.jpg",
+      "status": "downloaded",
+      "bytes": 9409
+    },
+    {
+      "url": "https://framerusercontent.com/images/f14L1j3ReGFclmnUO5YMBGUzPpA.jpg",
+      "file": "f14L1j3ReGFclmnUO5YMBGUzPpA-8d4148ebf2.jpg",
+      "status": "downloaded",
+      "bytes": 101535
+    },
+    {
+      "url": "https://framerusercontent.com/images/mgNtlfwPwywGcL8wPaZN3hdaC9g.jpg",
+      "file": "mgNtlfwPwywGcL8wPaZN3hdaC9g-1f17005a8e.jpg",
+      "status": "downloaded",
+      "bytes": 340763
+    },
+    {
+      "url": "https://framerusercontent.com/images/x8B6X7Ld9rSF6sk1mPoeGR6ZXU.jpg",
+      "file": "x8B6X7Ld9rSF6sk1mPoeGR6ZXU-5e5ac0ba64.jpg",
+      "status": "downloaded",
+      "bytes": 1802317
+    }
+  ],
+  "failures": []
+}
